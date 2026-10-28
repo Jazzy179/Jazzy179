@@ -22,8 +22,9 @@
 <p>👋 精算学在读，正在做面向海外用户的 Agent 与多端 AI 产品。从需求、设计到开发和数据复盘，喜欢把想法亲手做出来。</p>
 
 <p>
-  <a href="https://jazzy179.github.io/Jazzy179/">🌐 交互作品</a> ·
-  <a href="./portfolio.pdf">📄 PDF 作品集</a> ·
+  <a href="https://jazzy179.github.io/">🌐 个人网站</a> ·
+  <a href="./portfolio-overview-v19.1.pdf">📄 概括版 · 8 页</a> ·
+  <a href="./portfolio-core-cases-v19.1.pdf">📑 核心案例 · 12 页</a> ·
   <a href="https://www.glbgpt.com/video-edit">🎬 Video Editor</a> ·
   <a href="mailto:jazzyzhong@163.com">✉️ 邮箱</a>
 </p>
@@ -263,7 +264,9 @@
 | [Mac 客户端 ↗](https://jazzy179.github.io/Jazzy179/mac-client.html) | Chatbot、Agent、生图生视频和模式切换 |
 | [Chrome 插件 ↗](https://jazzy179.github.io/Jazzy179/browser-agent.html) | 浏览器上下文、侧边栏 Agent 与云端联动 |
 | [Video Editor 录屏 ↗](https://jazzy179.github.io/Jazzy179/video-editor-demo.mp4) | 视频生成产品的真实交互路径 |
-| [完整 PDF 作品集 ↗](./portfolio.pdf) | 项目背景、过程、数据和复盘 |
+| [作品集 · 概括版 ↗](./portfolio-overview-v19.1.pdf) | v19.1 · 8 页，快速了解项目、职责与上线迭代 |
+| [作品集 · 核心案例版 ↗](./portfolio-core-cases-v19.1.pdf) | v19.1 · 12 页，查看用户任务、交互决策与问题定位 |
+| [下载两份 PDF 合集 ↗](./portfolio-v19.1.zip) | 概括版与核心案例版，打包下载 |
 
 ## 🌱 产品之外
 
@@ -273,8 +276,8 @@
 
 ## 📬 联系方式
 
-- 交互作品：[查看交互作品](https://jazzy179.github.io/Jazzy179/)
+- 个人网站：[jazzy179.github.io](https://jazzy179.github.io/)
 - 邮箱：[jazzyzhong@163.com](mailto:jazzyzhong@163.com)
-- PDF：[查看完整作品集](./portfolio.pdf)
+- PDF：[概括版 · 8 页](./portfolio-overview-v19.1.pdf) · [核心案例版 · 12 页](./portfolio-core-cases-v19.1.pdf) · [下载合集](./portfolio-v19.1.zip)
 
 <p align="center"><sub>把用户目标拆成可执行的产品，让 Agent 能使用、能验证、能继续改进。</sub></p>
